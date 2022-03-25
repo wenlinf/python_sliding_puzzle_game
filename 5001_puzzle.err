@@ -1,0 +1,54 @@
+TIMESTAMP: 2021-12-09 23:38:13,384 - ERROR: g is not a valid game. - LOCATION: PuzzleGame.py.load_new_game
+TIMESTAMP: 2021-12-10 08:08:37,820 - ERROR: Only 8 tiles found. Not a valid puzzle. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 08:12:00,959 - ERROR: Only 8 tiles found. Not a valid puzzle. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 08:12:06,971 - ERROR: Only 8 tiles found. Not a valid puzzle. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 08:25:43,437 - ERROR:  is not a valid game. - LOCATION: PuzzleGame.py.load_new_game
+TIMESTAMP: 2021-12-10 08:28:23,771 - ERROR:  is not a valid game. - LOCATION: PuzzleGame.py.load_new_game
+TIMESTAMP: 2021-12-10 08:28:52,904 - ERROR: Only 8 tiles found. Not a valid puzzle. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 08:28:58,917 - ERROR: Only 8 tiles found. Not a valid puzzle. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 08:36:19,347 - ERROR: Only 8 tiles found. Not a valid puzzle. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 08:36:22,362 - ERROR: Only 8 tiles found. Not a valid puzzle. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 08:36:51,069 - ERROR: Only 8 tiles found. Not a valid puzzle. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 09:27:37,754 - ERROR: Only 8 tiles found. Not a valid puzzle. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 09:29:33,194 - ERROR: wenlin is not a valid game. - LOCATION: PuzzleGame.py.load_new_game
+TIMESTAMP: 2021-12-10 09:29:37,291 - ERROR: Only 8 tiles found. Not a valid puzzle. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 09:30:20,702 - ERROR: Only 8 tiles found. Not a valid puzzle. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 09:31:08,195 - ERROR: Only 8 tiles found. Not a valid puzzle. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 09:34:18,594 - ERROR: Only 8 tiles found. Not a valid puzzle. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 09:35:08,777 - ERROR: Only 8 tiles found. Not a valid puzzle. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 10:17:21,047 - ERROR: Only 8 tiles found. Not a valid puzzle. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 10:27:52,740 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 10:42:12,427 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 10:42:57,802 - ERROR: malform is not a valid game. - LOCATION: PuzzleGame.py.load_new_game
+TIMESTAMP: 2021-12-10 10:43:46,802 - ERROR: malform is not a valid game. - LOCATION: PuzzleGame.py.load_new_game
+TIMESTAMP: 2021-12-10 10:43:50,546 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 10:45:33,721 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 10:46:17,237 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 10:46:53,103 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 10:47:26,224 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 10:48:13,970 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 10:49:05,069 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 10:49:14,716 - ERROR: mal is not a valid game. - LOCATION: PuzzleGame.py.load_new_game
+TIMESTAMP: 2021-12-10 10:54:41,234 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 10:55:21,762 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 11:16:50,496 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 11:32:07,062 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 11:33:28,864 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 11:34:11,694 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 11:34:47,176 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 11:35:58,076 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 11:37:19,611 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 11:39:28,953 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 11:40:07,057 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 11:57:21,885 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 12:00:29,204 - ERROR: Only 8 tiles found. Not a valid puzzle. - LOCATION: PuzzleGame.py.load_meta_data
+TIMESTAMP: 2021-12-10 13:29:41,428 - ERROR: malform is not a valid game. - LOCATION: PuzzleGame.py.load_new_game
+TIMESTAMP: 2021-12-10 13:29:48,170 - ERROR: None is not a valid game. - LOCATION: PuzzleGame.py.load_new_game
+TIMESTAMP: 2021-12-11 06:09:15,956 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.load_meta_data
+TIMESTAMP: 2021-12-11 06:50:03,716 - ERROR: wnel is not a valid game. - LOCATION: PuzzleGame.load_new_game
+TIMESTAMP: 2021-12-11 07:31:49,907 - ERROR: Leader file doesn't exist. Creating one. - LOCATION: puzzle_game.check_leader_board
+TIMESTAMP: 2021-12-11 07:59:12,738 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.load_meta_data
+TIMESTAMP: 2021-12-11 10:58:41,178 - ERROR: No puz file found. - LOCATION: PuzzleGame.load_all_games
+TIMESTAMP: 2021-12-11 11:12:58,937 - ERROR: hello is not a valid game. - LOCATION: PuzzleGame.load_new_game
+TIMESTAMP: 2021-12-11 12:05:46,208 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.load_meta_data
+TIMESTAMP: 2021-12-11 21:12:00,373 - ERROR: Thumbnail image doesn't exist. - LOCATION: PuzzleGame.load_meta_data

@@ -1,0 +1,12 @@
+The three main boards on the game window are represented by three classes: Puzzleboard, Buttonboard,
+and Leaderboard, representing the puzzle game board where the puzzles are displayed, the board where 
+the buttons and the player moves are displayed, and the leaderboard where the leaders and the game 
+thumbnail are displayed. The Tile class represents the tiles in the puzzles. The game is represented 
+by the PuzzleGame class. The puzzle_game.py file serves as a driver file of the game.
+
+For easier management, I created the config.py file to configure all the file paths, turtle
+positions and error logging info for the project, so that we do not have to go through the whole project
+to change some specific properties. The utils.py contains functions that are used by multiple files.
+More common functions can be added here if needed. This way we can avoid repeating the same code
+that will be used by multiple files everywhere.
+
